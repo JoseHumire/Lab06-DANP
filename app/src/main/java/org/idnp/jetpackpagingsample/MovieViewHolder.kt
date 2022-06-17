@@ -17,7 +17,6 @@ class MovieViewHolder(view: View) : RecyclerView.ViewHolder(view) {
             nameText.text = movie.name
             genderText.text = movie.gender
             releaseText.setText(""+movie.releaseYear+"/"+movie.releaseMonth+"/"+movie.releaseDay)
-//            Log.d("MainActivity", id.toString())
         }
     }
 }

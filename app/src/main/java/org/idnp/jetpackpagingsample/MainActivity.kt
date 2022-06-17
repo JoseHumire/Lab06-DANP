@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
 
         val viewModel by viewModels<ExampleViewModel>()
         val recyclerView = findViewById<RecyclerView>(R.id.recycler_view)
-        val pagingAdapter = UserAdapter()
+        val pagingAdapter = MovieAdapter()
 
         recyclerView.adapter = pagingAdapter
         recyclerView.apply {
