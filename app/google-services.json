@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16445130041",
+    "project_id": "jetpackpagingsample",
+    "storage_bucket": "jetpackpagingsample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16445130041:android:3662bdfc05d6afd95854e8",
+        "android_client_info": {
+          "package_name": "org.idnp.jetpackpagingsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16445130041-tph7i0hqei7du7lb3mtd99vqetfspafd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMFsht5HI35iHzjXG06d29M85is0HND58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16445130041-tph7i0hqei7du7lb3mtd99vqetfspafd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
